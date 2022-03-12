@@ -1,3 +1,6 @@
+import pprint
+
+
 print("dwa dni męki i działa",65)
 a=5
 b=8
@@ -7,4 +10,6 @@ else:
     c=a+b
     print(c)
 
-print('coś')
+pprint.pprint('coś')
+pprint.pprint(5)
+
