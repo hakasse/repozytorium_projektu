@@ -11,5 +11,9 @@ else:
     print(c)
 
 pprint.pprint('coś')
-pprint.pprint(5)
 
+dict = {"ajak": "zzzzz", "122": "121212", "zdsdjaaa": "hsjhh"}
+
+pprint.pprint(dict)
+
+print(dict)
