@@ -1,1 +1,1 @@
-print("dwa dni męki i działa")
+print("dwa dni męki i działa xD")
