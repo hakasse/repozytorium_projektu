@@ -6,3 +6,5 @@ if a==b:
 else:
     c=a+b
     print(c)
+
+print('coś')
