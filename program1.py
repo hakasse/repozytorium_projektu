@@ -1,2 +1,1 @@
-print("dwa dni męki i działa xD")
-print("tak)
+print("dwa dni męki i działa",65)
